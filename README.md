@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm naMqe
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=naMqe-h&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=naMqe-h&show_icons=true&theme=radical)
+[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">]
 
 #### ❤️ I'm 18 years old Javascript lover
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
@@ -14,7 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical) -->
 
 
 <!--
