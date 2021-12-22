@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm naMqe
 
-[<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=naMqe-h&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=naMqe-h&show_icons=true&theme=radical)
 
 #### ❤️ I'm 18 years old Javascript lover
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
