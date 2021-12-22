@@ -2,9 +2,9 @@
 
 <img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">
 
-<br />
 #### ❤️ I'm 18 years old Javascript lover
 #### 🤔 I'm looking for a job as React developer
+#### :smiling_imp: I'm currently learning React and Typescript
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
 #### Languages and tools I use:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
