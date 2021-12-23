@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm naMqe
 
-<img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">
+[<img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
 
 #### ❤️ I'm 18 years old Javascript lover
 #### 🤔 I'm looking for a job as React developer
