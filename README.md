@@ -1,4 +1,4 @@
-## 👋 Hello, I'm naMqe
+## 👋 Hello, I'm Marcin
 
 [<img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
 
