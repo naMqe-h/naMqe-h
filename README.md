@@ -6,7 +6,7 @@
 
 #### ❤️ I'm 19 years old Javascript lover
 #### 🤔 I'm looking for a job as React developer
-#### :smiling_imp: I'm currently learning React and Web3.0 technologies
+#### :smiling_imp: I'm currently learning Solidity
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
 #### Languages and tools I use:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
