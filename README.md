@@ -1,5 +1,4 @@
 ## 👋 Hello, I'm Marcin 
-## Visits: <img align="center" src="https://profile-counter.glitch.me/naMqe-h/count.svg">
 
 [<img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
 
