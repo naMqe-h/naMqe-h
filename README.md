@@ -3,7 +3,7 @@
 [<img align="right" width="40%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=naMqe-h&theme=radical)
 
 
-#### ❤️ I'm 19 years old Javascript lover
+#### ❤️ I'm 19 years old Typescript lover
 #### 🤔 I'm looking for a job as React developer
 #### :smiling_imp: I'm currently learning Solidity
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
