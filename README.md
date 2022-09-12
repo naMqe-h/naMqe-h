@@ -5,7 +5,6 @@
 
 #### ❤️ I'm 19 years old Typescript lover
 #### 🤔 I'm looking for a job as React Typescript developer
-#### :smiling_imp: Creator of [NFT Discord BOT](https://twitter.com/ME_Activity_Bot)
 #### 💬 Ask me about anything [here](https://github.com/naMqe-h/naMqe-h/issues)
 #### Languages and tools I use:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
