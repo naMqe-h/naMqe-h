@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm naMqe
 
-- 👨 I'm 21 years old Frontend Dev
+- 👨‍🦰 I'm 21 years old Frontend Dev
 - 📨 Reach me on [Twitter](https://x.com/naMqe7) or Discord: namqe
 - 💻 Technologies & Languages: React.js, Next.js, Node.js, Javascript, Typescript, CSS, Tailwind, Supabase, Flutter, Python, Solidity.
 
