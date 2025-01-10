@@ -4,9 +4,28 @@
   <p>
     I study IT at the University in Poland. Self-motivated, innovative thinking and able to work with a team. I love to work on Typescript and am also interested in the Blockchain. I know about React, Next.js, Node.js and Python. Additionally, I have experience with Flutter and I'm quite interested in mobile development. Mostly I use Supabase as the database in my projects and also I know SQL, Postgres, Mongo and Firebase.
   </p>
+  <div width="100%" display="flex" align="center">
+    <a href="https://github.com/naMqe-h" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=naMqe-h" alt="page views" />
+    </a>
+    <a href="https://github.com/naMqe-h" target="_blank">
+      <img src="https://img.shields.io/github/stars/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
+    </a>
+    <a href="https://github.com/naMqe-h?tab=followers" target="_blank">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
+    </a>
+    <a href="https://github.com/naMqe-h" target="_blank">
+      <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/naMqe-h/naMqe-h/main">
+    </a>
+    <a href="https://wakatime.com/@naMqe" target="_blank">
+      <img src="https://wakatime.com/badge/user/61e9cdd1-e0f7-4891-9e2f-78c5e8da2de5.svg" alt="Wakatime" />
+    </a>
+  </div>
 </div>
 
 <i>Check out my [Twitter](https://x.com/naMqe7)</i> <br>
+
+#
 
 <div width ="100%" display="flex" align="center">
   <picture>
@@ -38,6 +57,8 @@
   </picture>
 </div>
 
+#
+
 <h3 align="center">My Current Tech Stack 👾</h3>
 <div width="100%" display="flex" align="center">
   <code><img src="https://img.icons8.com/color/48/typescript.png"></code>
@@ -62,4 +83,5 @@
   <code><img src="https://img.icons8.com/color/48/supabase.png"></code>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile🧑‍💻&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
 
