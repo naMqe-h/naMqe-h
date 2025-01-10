@@ -16,12 +16,6 @@
   </picture>
 </div>
 
-<!--   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=naMqe-h&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentage" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=naMqe-h&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
-    <img width="50%" alt="github-stats" src="github-stats.svg" />
-  </picture> -->
-
 <div width ="100%" display="flex" align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naMqe-h&theme=radical" />
@@ -43,3 +37,29 @@
   <img alt="productive-time" src="productive-time.svg" />
   </picture>
 </div>
+
+<h3 align="center">My Current Tech Stack 👾</h3>
+<div width="100%" display="flex" align="center">
+  <code><img src="https://img.icons8.com/color/48/typescript.png"></code>
+  <code><img src="https://img.icons8.com/color/48/javascript.png"></code>
+  <code><img src="https://img.icons8.com/color/48/css.png"></code>
+  <code><img src="https://img.icons8.com/color/48/html.png"></code>
+  <code><img src="https://img.icons8.com/color/48/dart"></code>
+  <code><img src="https://img.icons8.com/color/48/solidity.png"></code>
+  <code><img src="https://img.icons8.com/color/48/python.png"></code>
+</div>
+
+<h3 align="center">Mostly Used Frameworks, Platforms, Databases and Libraries</h3>
+<div width="100%" display="flex" align="center">
+  <code><img src="https://img.icons8.com/offices/40/react.png"></code>
+  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
+  <code><img src="https://img.icons8.com/color/48/tailwindcss.png"></code>
+  <code><img src="https://img.icons8.com/color/48/flutter.png"></code>
+  <code><img src="https://img.icons8.com/color/48/npm.png"></code>
+  <code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
+  <code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
+  <code><img src="https://img.icons8.com/color/48/firebase.png"></code>
+  <code><img src="https://img.icons8.com/color/48/supabase.png"></code>
+</div>
+
+
