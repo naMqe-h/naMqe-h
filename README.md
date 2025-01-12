@@ -59,7 +59,7 @@
 
 #
 
-<h3 align="center">My Current Tech Stack 👾</h3>
+<h3 align="center">My Current Tech Stack 🏆</h3>
 <div width="100%" display="flex" align="center">
   <code><img src="https://img.icons8.com/color/48/typescript.png"></code>
   <code><img src="https://img.icons8.com/color/48/javascript.png"></code>
