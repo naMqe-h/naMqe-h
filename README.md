@@ -14,9 +14,6 @@
     <a href="https://github.com/naMqe-h?tab=followers" target="_blank">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
     </a>
-    <a href="https://github.com/naMqe-h" target="_blank">
-      <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/naMqe-h/naMqe-h/main">
-    </a>
     <a href="https://wakatime.com/@naMqe" target="_blank">
       <img src="https://wakatime.com/badge/user/61e9cdd1-e0f7-4891-9e2f-78c5e8da2de5.svg" alt="Wakatime" />
     </a>
