@@ -81,4 +81,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile🧑‍💻&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
-
