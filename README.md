@@ -20,6 +20,7 @@
   </div>
 </div>
 
+<i>Discord: namqe</i> <br>
 <i>Check out my [Twitter](https://x.com/naMqe7)</i> <br>
 
 #
