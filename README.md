@@ -27,8 +27,8 @@
 
 <div width ="100%" display="flex" align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=naMqe-h&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=naMqe-h&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=naMqe-h&theme=dark&hide_border=true&background=141321" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=naMqe-h&theme=dark&hide_border=true&background=141321" />
   <img alt="streak" src="streak.svg" />
   </picture>
 </div>
