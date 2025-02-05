@@ -2,7 +2,13 @@
 
 <div>
   <p>
-    I study IT at the University in Poland. Self-motivated, innovative thinking and able to work with a team. I love to work on Typescript and am also interested in the Blockchain. I know about React, Next.js, Node.js and Python. Additionally, I have experience with Flutter and I'm quite interested in mobile development. Mostly I use Supabase as the database in my projects and also I know SQL, Postgres, Mongo and Firebase.
+    I am an IT student at DSW University of Lower Silesia in Poland, passionate about software development and innovative technologies. As a self-motivated individual with a strong analytical mindset, I thrive in both independent projects and collaborative team environments.
+
+My expertise lies in TypeScript, and I enjoy working with modern web technologies such as React, Next.js, and Node.js. Additionally, I have experience with Python and mobile development using Flutter. I am particularly interested in blockchain technology and its potential applications.
+
+For database management, I frequently use Supabase, but I am also proficient in SQL, PostgreSQL, MongoDB, and Firebase. My skill set enables me to build efficient, scalable, and high-performance applications.
+
+I am always eager to learn new technologies and contribute to innovative projects that push the boundaries of software development.
   </p>
   <div width="100%" display="flex" align="center">
     <a href="https://github.com/naMqe-h" target="_blank">
