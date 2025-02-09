@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    I am an IT student at DSW University of Lower Silesia in Poland, passionate about software development and innovative technologies. As a self-motivated individual with a strong analytical mindset, I thrive in both independent projects and collaborative team environments.
+    I am a Computer Science student at DSW University of Lower Silesia in Poland, passionate about software development and innovative technologies. As a self-motivated individual with a strong analytical mindset, I thrive in both independent projects and collaborative team environments.
 
 My expertise lies in TypeScript, and I enjoy working with modern web technologies such as React, Next.js, and Node.js. Additionally, I have experience with Python and mobile development using Flutter. I am particularly interested in blockchain technology and its potential applications.
 
