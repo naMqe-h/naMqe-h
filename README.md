@@ -1,33 +1,22 @@
 <h1>Hello there 👋</h1>
 
-<div>
-  <p>
-    I am a Computer Science student at DSW University of Lower Silesia in Poland, passionate about software development and innovative technologies. As a self-motivated individual with a strong analytical mindset, I thrive in both independent projects and collaborative team environments.
-
-My expertise lies in TypeScript, and I enjoy working with modern web technologies such as React, Next.js, and Node.js. Additionally, I have experience with Python and mobile development using Flutter. I am particularly interested in blockchain technology and its potential applications.
-
-For database management, I frequently use Supabase, but I am also proficient in SQL, PostgreSQL, MongoDB, and Firebase. My skill set enables me to build efficient, scalable, and high-performance applications.
-
-I am always eager to learn new technologies and contribute to innovative projects that push the boundaries of software development.
-  </p>
-  <div width="100%" display="flex" align="center">
-    <a href="https://github.com/naMqe-h" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=naMqe-h" alt="page views" />
-    </a>
-    <a href="https://github.com/naMqe-h" target="_blank">
-      <img src="https://img.shields.io/github/stars/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
-    </a>
-    <a href="https://github.com/naMqe-h?tab=followers" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
-    </a>
-    <a href="https://wakatime.com/@naMqe" target="_blank">
-      <img src="https://wakatime.com/badge/user/61e9cdd1-e0f7-4891-9e2f-78c5e8da2de5.svg" alt="Wakatime" />
-    </a>
-  </div>
-</div>
-
 <i>Discord: namqe</i> <br>
 <i>Check out my [Twitter](https://x.com/naMqe7)</i> <br>
+
+<div width="100%" display="flex" align="center">
+  <a href="https://github.com/naMqe-h" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=naMqe-h" alt="page views" />
+  </a>
+  <a href="https://github.com/naMqe-h" target="_blank">
+    <img src="https://img.shields.io/github/stars/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
+  </a>
+  <a href="https://github.com/naMqe-h?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
+  </a>
+  <a href="https://wakatime.com/@naMqe" target="_blank">
+    <img src="https://wakatime.com/badge/user/61e9cdd1-e0f7-4891-9e2f-78c5e8da2de5.svg" alt="Wakatime" />
+  </a>
+</div>
 
 #
 
