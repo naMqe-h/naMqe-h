@@ -1,79 +1,64 @@
-<h1>Hello there 👋</h1>
+## Full-stack & Web3 Developer
 
-<i>Discord: namqe</i> <br>
-<i>Check out my [Twitter](https://x.com/naMqe7)</i> <br>
+### Projects
 
-<div width="100%" display="flex" align="center">
-  <a href="https://github.com/naMqe-h" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=naMqe-h" alt="page views" />
-  </a>
-  <a href="https://github.com/naMqe-h" target="_blank">
-    <img src="https://img.shields.io/github/stars/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="stars" />
-  </a>
-  <a href="https://github.com/naMqe-h?tab=followers" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/naMqe-h?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3">
-  </a>
-  <a href="https://wakatime.com/@naMqe" target="_blank">
-    <img src="https://wakatime.com/badge/user/61e9cdd1-e0f7-4891-9e2f-78c5e8da2de5.svg" alt="Wakatime" />
-  </a>
-</div>
+#### **[Trenchmap](https://github.com/naMqe-h/trench-map)** (Live: [trenchmap.xyz](https://www.trenchmap.xyz/))
+*   **Technologies:** Next.js • TypeScript • Three.js • React Three Fiber • Zustand • Tailwind CSS
+*   *An interactive 3D map visualizing Solana memecoins as voxel buildings.*
 
-#
+#### **[Injective Coins Tools CLI](https://github.com/naMqe-h/injective-coins-tools)**
+*   **Technologies:** Node.js • TypeScript • Injectivelabs SDK
+*   *An interactive, user-friendly Command Line Interface utility to manage wallets, check balances, interact with the Injective Token Factory, and send tokens.*
 
-<div width ="100%" display="flex" align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=naMqe-h&theme=dark&hide_border=true&background=141321" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=naMqe-h&theme=dark&hide_border=true&background=141321" />
-  <img alt="streak" src="streak.svg" />
-  </picture>
-</div>
+#### **[Crypto & Stock Tracker](https://github.com/naMqe-h/crypto-stock-tracker)** (Live: [Demo](https://crypto-stock-tracker-five.vercel.app/pl))
+*   **Technologies:** Next.js • TypeScript • Tailwind CSS • Next-intl
+*   *A modern financial dashboard for tracking cryptocurrencies and US stocks, featuring interactive charts and news feeds.*
 
-<div width ="100%" display="flex" align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naMqe-h&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naMqe-h" />
-  <img alt="profile-details" src="profile-details.svg" />
-  </picture>
-</div>
+#### **[School Register](https://github.com/naMqe-h/dziennik-szkolny)**
+*   **Technologies:** React.js • TypeScript • Firebase • Redux • Tailwind CSS
+*   *A web application for school administration, designed to manage classes, students, grades, timetables, and academic schedules.*
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naMqe-h&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naMqe-h" />
-  <img alt="repos-per-language" src="repos-per-language.svg" />
-  </picture>
+---
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naMqe-h&theme=radical&utcOffset=1" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naMqe-h&utcOffset=1" />
-  <img alt="productive-time" src="productive-time.svg" />
-  </picture>
-</div>
+### Languages & Tools
 
-#
+##### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="center">My Current Tech Stack 🏆</h3>
-<div width="100%" display="flex" align="center">
-  <code><img src="https://img.icons8.com/color/48/typescript.png"></code>
-  <code><img src="https://img.icons8.com/color/48/javascript.png"></code>
-  <code><img src="https://img.icons8.com/color/48/css.png"></code>
-  <code><img src="https://img.icons8.com/color/48/html.png"></code>
-  <code><img src="https://img.icons8.com/color/48/dart"></code>
-  <code><img src="https://img.icons8.com/color/48/solidity.png"></code>
-  <code><img src="https://img.icons8.com/color/48/python.png"></code>
-</div>
+##### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="center">Mostly Used Frameworks, Platforms, Databases and Libraries</h3>
-<div width="100%" display="flex" align="center">
-  <code><img src="https://img.icons8.com/offices/40/react.png"></code>
-  <code><img src="https://img.icons8.com/fluency/48/node-js.png"></code>
-  <code><img src="https://img.icons8.com/color/48/tailwindcss.png"></code>
-  <code><img src="https://img.icons8.com/color/48/flutter.png"></code>
-  <code><img src="https://img.icons8.com/color/48/npm.png"></code>
-  <code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"></code>
-  <code><img src="https://img.icons8.com/color/48/mysql-logo.png"></code>
-  <code><img src="https://img.icons8.com/color/48/firebase.png"></code>
-  <code><img src="https://img.icons8.com/color/48/supabase.png"></code>
-</div>
+##### Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3A3A3A?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-1A1A1A?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile🧑‍💻&reversal=false&section=footer&fontSize=16&animation=twinkling&fontAlignY=80">
+##### Databases & BaaS
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+##### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### Connect
+
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naMqe7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naMqe07@gmail.com)
+
+---
