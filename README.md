@@ -10,13 +10,9 @@
 *   **Technologies:** Node.js • TypeScript • Injectivelabs SDK
 *   *An interactive, user-friendly Command Line Interface utility to manage wallets, check balances, interact with the Injective Token Factory, and send tokens.*
 
-#### **[Crypto & Stock Tracker](https://github.com/naMqe-h/crypto-stock-tracker)** (Live: [Demo](https://crypto-stock-tracker-five.vercel.app/pl))
-*   **Technologies:** Next.js • TypeScript • Tailwind CSS • Next-intl
-*   *A modern financial dashboard for tracking cryptocurrencies and US stocks, featuring interactive charts and news feeds.*
-
-#### **[School Register](https://github.com/naMqe-h/dziennik-szkolny)**
-*   **Technologies:** React.js • TypeScript • Firebase • Redux • Tailwind CSS
-*   *A web application for school administration, designed to manage classes, students, grades, timetables, and academic schedules.*
+#### **[Onchain Agent](https://github.com/naMqe-h/onchain-agent)** (Live: [Demo](https://agent.namqe.xyz/))
+*   **Technologies:** Next.js • TypeScript • Tailwind CSS • Prisma • Supabase • Zustand • Viem • Uniswap API • Eve • AI SDK
+*   *Autonomous AI Web3 agent platform for multi chain EVM transactions, token swaps, and real-time blockchain analytics.*
 
 ---
 
